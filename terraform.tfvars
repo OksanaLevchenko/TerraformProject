@@ -1,0 +1,12 @@
+aws_region           ="us-east-1"
+ami_id               ="ami-0a3c3a20c09d6f377"
+instance_type        ="t2.micro"
+asg_min_size         ="1"
+asg_max_size         ="3"
+asg_desired_capacity ="2"
+vpc_subnet_ids       =["subnet-05a0a02e4e97026c5", "subnet-07c58f75816364ee0"]
+s3_bucket_name       ="example-bucket-nur2314"
+log_bucket_name      ="example-log-bucket2"
+availability_zones   =["us-east-1a", "us-east-1b"]
+vpc_zone_identifier  = ["subnet-12345678", "subnet-87654321"]
+env                  = "dev"   
