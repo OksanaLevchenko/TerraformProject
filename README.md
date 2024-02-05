@@ -2,7 +2,8 @@
 
 # Terraform / AWS Infrastructure Setup Deliverables:
 
-Create a Terraform repository that creates the following resources in AWS:
+## Create a Terraform repository that creates the following resources in AWS:
+
 **Auto Scaling Group:**
 - Deploy an Auto Scaling Group using the standard AWS Linux AMI.
 - Ensure the ASG scales based on CPU utilization (For example, scale-out when CPU >
