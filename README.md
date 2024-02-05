@@ -55,9 +55,9 @@ outbound traffic on ports 80 & 443.
 
 Exporting credentials in the best practices **aws configure**
 
-$ export access_key = "AKIAV25RB46XGKICKB5Z"
+$ export access_key = ""
 
-$ export secret_key = "TFU4NjraBZ8k4+H4aBlStvOZ9XwZAJcImbXPw4YL"
+$ export secret_key = ""
 
 Terraform init
 
