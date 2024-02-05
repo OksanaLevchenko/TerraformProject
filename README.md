@@ -49,7 +49,7 @@ outbound traffic on ports 80 & 443.
 
 * **vpc_zone_identifier:** The IDs of the VPC zones in which the instances will be launched.
 
-srcset=https://registry.terraform.io/providers/hashicorp/aws/latest
+(https://registry.terraform.io/providers/hashicorp/aws/latest)
 
 ## Deployment
 
