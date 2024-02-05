@@ -25,6 +25,7 @@ outbound traffic on ports 80 & 443.
 ## Prerequisites:
 
 * Terraform
+* AWS
 
 # Other Parameters
 
