@@ -22,6 +22,18 @@ Security Group:
 - Create a security group for the EC2 instances with rules to allow inbound and
 outbound traffic on ports 80 & 443.
 
+## Structure:
+
+### Reference for Auto Scaling Group
+(https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/autoscaling_group#attribute-reference)
+
+### Reference IAM Policy and Role Creation
+(https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/iam_role_policy)
+
+### Reference S3 Bucket 
+(https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/s3_bucket)
+
+
 ## Prerequisites:
 
 * Terraform
